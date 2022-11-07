@@ -9,3 +9,8 @@ datagroup: bigquery-test-crosslineage_default_datagroup {
 }
 
 persist_with: bigquery-test-crosslineage_default_datagroup
+
+
+explore: columnprofiler{}
+
+explore: my_test_table {}
